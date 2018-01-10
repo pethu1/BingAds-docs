@@ -8,3 +8,5 @@ ms.service: "bingads-scripts"
 ms.topic: "article"
 ms.author: "v-brapel"
 ---
+
+# Get started
